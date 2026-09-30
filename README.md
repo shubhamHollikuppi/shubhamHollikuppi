@@ -1,7 +1,7 @@
 
-Hi, I'm Shubham Hollikuppi 👋
+# Hi, I'm Shubham Hollikuppi 👋
 
-Learning. Building. Becoming.
+**Learning. Building. Becoming.**
 
 I'm a Computer Science student interested in programming, software development, and building projects that solve real problems.
 
